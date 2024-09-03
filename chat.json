@@ -6,5 +6,14 @@
         "timestamp": "1725356406",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with text Working Hard",
+        "message_id": "guest03092024094051",
+        "timestamp": "03092024094053",
+        "component_file_name": "simple_cta_component_1725356406",
+        "div_id": "",
+        "div_action": ""
     }
 ]
