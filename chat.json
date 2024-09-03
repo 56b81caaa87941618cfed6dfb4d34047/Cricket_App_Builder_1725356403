@@ -15,5 +15,14 @@
         "component_file_name": "simple_cta_component_1725356406",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll add a button with the text \"Working Hard.\"",
+        "message_id": "guest03092024094051",
+        "timestamp": "03092024094053",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     }
 ]
