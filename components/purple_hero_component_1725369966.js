@@ -43,7 +43,7 @@ INSTRUCTION: 3. Hero content: The main content of the landing page, including an
                 <svg id="docs-icon" class="shrink-0 mr-3 text-slate-500" xmlns="http://www.w3.org/2000/svg" width="16" height="16">
                   <path d="m1.999 0 1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 0l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM11.999 10l1 2-1 2 2-1 2 1-1-2 1-2-2 1zM6.292 7.586l2.646-2.647L11.06 7.06 8.413 9.707zM0 13.878l5.586-5.586 2.122 2.121L2.12 16z"/>
                 </svg>
-                <span id="docs-button-text">Read the docs</span>
+                <span id="docs-button-text">Read the documents</span>
               </a>
             </div>
           </div>
