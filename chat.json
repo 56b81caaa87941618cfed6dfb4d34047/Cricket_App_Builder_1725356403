@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add animated button on press for visual feedback\", \"checked\": false}, {\"feature\": \"Include a tooltip that explains what 'Working Hard' means\", \"checked\": false}, {\"feature\": \"Change button color based on user interaction\", \"checked\": true}, {\"feature\": \"Create a dedicated section for motivational quotes with a similar style\", \"checked\": false}, {\"feature\": \"Implement a sound effect when the button is pressed\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 107, \"time_taken\": \"0:00:02.048034\"}",
+        "message_id": "guest03092024094051",
+        "timestamp": "03092024094111",
+        "component_file_name": "simple_cta_component_1725356406",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Working Hard' button to be placed within the app?\", \"option1\": \"At the top of the home screen\", \"option2\": \"At the bottom of the settings page\"}, {\"question 2\": \"What action should occur when the 'Working Hard' button is pressed?\", \"option1\": \"Open a motivational quote\", \"option2\": \"Navigate to a tips page for players\"}], \"input_token_count\": 272, \"output_token_count\": 100, \"time_taken\": \"0:00:01.781423\"}",
         "message_id": "guest03092024094051",
