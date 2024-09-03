@@ -12,5 +12,11 @@
         "content": "add a button with text Working Hard",
         "timestamp": "03092024094053",
         "message_id": "guest03092024094051"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll add a button with the text \"Working Hard.\"",
+        "timestamp": "03092024094053",
+        "message_id": "guest03092024094051"
     }
 ]
